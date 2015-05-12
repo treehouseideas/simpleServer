@@ -1,11 +1,12 @@
 {
   "name": "simpleserver",
   "version": "1.0.0",
-  "description": "NodeJS - Simple Server",
+  "description": "This is a very simple web server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "Paolo Liwanag",
-  "license": "CPL"
+  "author": "Brad Traversy",
+  "license": "GPL"
 }
